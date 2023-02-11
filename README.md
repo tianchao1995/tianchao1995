@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi 👋
+<p align="center">
+  <a href="https://tianchao1995.github.io/blog/">
+    <img width="500" src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3658379912,845864056&fm=26&gp=0.jpg">
+  </a>
+</p>
 
 <!--
-**tianchao1995/tianchao1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**akiko123456/akiko123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning ...
